@@ -1,0 +1,14 @@
+Grid e Breakpoints:
+  1 - sistema Grid:
+    1.1 - O grid do bootstrap é baseado em 12 'grids', ou seja, 12 colunas.
+  2 - Breakpoints:
+    2.1 - O Breakpoints do bootstrap são faixas específicad de tamanho de tela, a partir da resolução a disposição de elementos é alterada para uma melhor visualização.
+  
+    Os breakpoints são:
+      2.2.1 - Breakpoint - infixo(css) - resolução
+      2.2.2 - X-small, NULL, < 576px
+      2.2.3 - small, sm, >= 576px
+      2.2.4 - medium, md, >= 768px
+      2.2.5 - large, lg, >= 992px
+      2.2.6 - Extra Large, xl, >= 1200px
+      2.2.7 - Extra Extra Large, xxl, >= 1400px

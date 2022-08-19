@@ -1,0 +1,5 @@
+Linhas e colunas
+  1 - Sistema de 12 colunas.
+  2 - sistema de linhas customizavel.
+  3 - dentro do container é herdado o tamanho do container e suas propriedades.
+  4 - Uso de breakpoints para customização das linhas e colunas em dispositivos diversos.
