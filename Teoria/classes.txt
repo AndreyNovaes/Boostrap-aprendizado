@@ -1,0 +1,78 @@
+1 - relatório de classes
+  1.1 -> encapsulamento
+    - 'container'
+    - 'container-fluid'
+  
+  1.2 => linhas e colunas(GRID)
+    - 'row'
+    - 'col'
+
+  => variações com breakpoints
+    - 'row-sm-1, col-sm-1'
+    - 'row-md-2, col-md-2'
+    - 'row-lg-4, col-lg-4'
+    - 'row-xl, col-xl'
+    - 'row-xxl, col-xxl'
+    ...
+
+  => variações de formatação e breakpoints
+    - row row-cols-2
+    - row row-cols-md-3
+    - row row-cols-lg-4
+    ...
+  => bootstrap flex-box justify ...
+    - row jusutify-content-center
+    - row justify-content-start
+    - row justify-content-between
+    - row justify-content-end
+    - col align-self-center
+    - col align-self-start
+    - col align-self-between
+    ...
+  => order
+    - col order-1
+    - col order-2
+    - row order-1
+    - row order-2
+    - col order-first
+    - col order-last
+    ...
+  => padding e margin
+<!-- 
+  p - padding
+  m - margin
+  p-0 = 0rem
+  1rem = 16px
+  1 - 0.25rem
+  2 - 0.5rem
+  3 - 1rem
+  4 - 1.5rem
+  5 - 3rem
+
+  t - top
+  b - botton
+  s - start(left-side)
+  e - end(right-side)
+  auto = centraliza, ou tenta centralizar no caso do m(margin)
+
+  pt-10 = 10px top padding
+  pb-10 = 10px bottom padding
+  ps-10 = 10px start padding
+  pe-10 = 10px end padding
+  ...
+
+  x = start until end - plano cartesiano horizontal
+  y = top until bottom - plano cartesiano vertical
+
+
+  breakpoints ...
+-->
+  => gutter
+<!-- gutter = g-number(0, 5)(rem default)
+  + breakpoints...
+  + x - horizontal gx-2
+  + y - vertical gy-2
+-->
+
+
+
